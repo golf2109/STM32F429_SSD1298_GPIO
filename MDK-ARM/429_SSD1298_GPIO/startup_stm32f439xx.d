@@ -1,0 +1,1 @@
+429_ssd1298_gpio\startup_stm32f439xx.o: startup_stm32f439xx.s
